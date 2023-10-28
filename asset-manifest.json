@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cocktail_shop/static/css/main.b83bad00.css",
+    "main.js": "/cocktail_shop/static/js/main.125fc02d.js",
+    "static/media/ZKZg.gif": "/cocktail_shop/static/media/ZKZg.90672f1deffccbcdf4f1.gif",
+    "static/media/logo.svg": "/cocktail_shop/static/media/logo.5bb3b58efe44c44cee437fa462266c08.svg",
+    "index.html": "/cocktail_shop/index.html",
+    "main.b83bad00.css.map": "/cocktail_shop/static/css/main.b83bad00.css.map",
+    "main.125fc02d.js.map": "/cocktail_shop/static/js/main.125fc02d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83bad00.css",
+    "static/js/main.125fc02d.js"
+  ]
+}
